@@ -1,18 +1,3 @@
-# Customer-Support-Triage
-
----
-title: Customer Support Triage Environment
-emoji: 📨
-colorFrom: blue
-colorTo: green
-sdk: docker
-pinned: false
-app_port: 8000
-base_path: /web
-tags:
-  - openenv
----
-
 # Customer Support Triage Environment
 
 A real-world OpenEnv environment for training and evaluating agents on customer support operations. The agent must handle realistic support tickets across three workflow stages:
